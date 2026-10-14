@@ -1,0 +1,49 @@
+CPP --> programming language.
+
+
+Programming language:programmming language is a set of instructions given to computer to perform a specif task.
+
+C  --> POPS : procedure oriented programming style
+CPP --> OOPS : Object Oriented Programming Style
+
+
+Cpp is a superset of C language.
+
+
+C++ history : 
+CPP - 1979 --> C with class
+CPP - 1983 --> bjarne stroustrup
+
+
+
+iostream : input output stream
+istream : input stream
+ostream : output stream
+
+
+
+Datatypes :
+int 
+float 
+char
+double
+string 
+bool : true or false
+
+
+main four pillars of OOPS
+1. encapsulation
+2. inheritance
+3. polymorphism
+4. Abstraction
+
+
+Data hiding : access specifier
+1. public 
+2. private
+3. protected
+
+
+
+Friend Defination :
+A friend function is a function that is not a member of a class, but it is allowed to access the private and protected members of that class.
