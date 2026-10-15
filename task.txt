@@ -1,0 +1,5 @@
+if else --> 5
+switch --> 2
+ternary operator --> 2
+for --> 5
+patern for loop --> 5
