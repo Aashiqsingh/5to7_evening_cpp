@@ -8,3 +8,21 @@ patern for loop --> 5
 
 Remove Duplicate Characters: Write a C++ program to remove duplicate characters from a string while maintaining the original order.
 1. Find the Longest Word: Write a C++ program to find the longest word in a sentence. (Example: C++ is a powerful programming language → programming)
+
+
+-----------------------------------------------------------------------
+2 - NOV - 2026
+
+1. Task 4: Find the Largest Element in an Array Using Pointers
+Write a function findLargest() that accepts an integer pointer and the size of an array. Use pointer arithmetic to find the largest element.
+
+2. Count Even and Odd Numbers Using Pointers and Functions
+Write a function countEvenOdd() that accepts an integer array using a pointer and counts the even and odd numbers. Use pointer arithmetic to access the array elements.
+
+3. Find the Maximum Number Using Pointers
+Write a function findMax() that accepts two integer pointers and returns the greater value.
+
+4. Find the Maximum Number Using Pointers
+Write a function findMax() that accepts two integer pointers and returns the greater value.
+
+5. 
