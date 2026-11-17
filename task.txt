@@ -32,4 +32,4 @@ create a structure contained feild employeeid , name , salary , designation
 senior developer : 7000 + 1100
 j developer : 5000 + 800
 hr : 3000 
-clerk : 1100
+clerk : 1100`
