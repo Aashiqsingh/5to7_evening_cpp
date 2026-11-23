@@ -1,0 +1,2 @@
+Encapsulation in C++ is the process of wrapping data members and member functions
+ into a single unit (class) and restricting direct access to data using access specifiers.
