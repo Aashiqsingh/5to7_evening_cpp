@@ -33,3 +33,19 @@ senior developer : 7000 + 1100
 j developer : 5000 + 800
 hr : 3000 
 clerk : 1100`
+
+
+Student Marks Management
+Create a C++ program using Encapsulation.
+
+Requirements:
+1. Create a class Student.
+2. Declare name, rollNumber, and marks as private members.
+3. Create public setter and getter methods.
+4. Set marks only between 0 and 100.
+5. Display student details using getter methods.
+6. Display the student's result:
+   - Marks 90–100: Grade A
+   - Marks 75–89: Grade B
+   - Marks 50–74: Grade C
+   - Below 50: Fail
