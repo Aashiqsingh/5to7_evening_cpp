@@ -25,8 +25,8 @@ int main()
     cout<<"\nvalue of a = "<<t2.a<<endl;
     t2.a = 3000;
 
-    t1.getObject(t2);
+    t1.getObject(t1);
 
-    cout<<"\nvalue of new = "<<t1.a;
+    cout<<"\nvalue of new = "<<t2.a;
 }
 
