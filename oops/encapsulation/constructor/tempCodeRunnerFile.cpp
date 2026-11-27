@@ -1,5 +1,5 @@
-Demo()
+Demo(int a)
     {
-        a = 100;
-
+        cout<<"Parametrized constructor called..";
+        cout<<"a = "<<a;
     }
